@@ -1,0 +1,113 @@
+header {
+  display: flex;
+}
+body {
+  background-color: rgb(26, 19, 19);
+  color: white;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+.lu {
+  display: flex;
+}
+.pk {
+  display: flex;
+  padding: 40px;
+  margin: 30px;
+}
+.smart {
+  margin-top: 30px;
+}
+ul {
+  display: flex;
+  list-style: none;
+  padding: 10px;
+  margin: 10px;
+}
+li {
+  padding: 10px;
+  border: 1px solid blue;
+  border-radius: 10px;
+  margin: 10px;
+  background-color: blue;
+  color: black;
+}
+li:hover {
+  background-color: white;
+}
+h1 {
+  padding-right: 500px;
+}
+h1 span {
+  color: blue;
+}
+
+}
+footer p {
+  padding: 10px;
+  border: 1px solid blue;
+  border-radius: 10px;
+  margin: 10px;
+  background-color: blue;
+  color: black;
+
+}
+
+.ns {
+  padding: 40px;
+  margin-bottom: 30px;
+}
+.smart {
+  padding: 40px;
+  padding-top: 30px;
+  margin-top:20px;
+
+}
+.mim {
+  display: flex;
+  padding: 10px;
+  margin: 10px;
+}
+.images {
+  display: flex;
+  padding: 40px;
+  margin: 20px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+}
+.lineo {
+  text-align: center;
+  padding: 20px;
+}
+.c {
+  flex-wrap: wrap;
+}
+.form {
+  display: flex;
+  gap: 20px;
+  gap: 10px 20px;
+  row-gap:20px;
+  column-gap: 20px;
+  flex-flow: column wrap;
+  padding-left: 40px;
+}
+.placeholder {
+  border-radius: 10px;
+}
+.send {
+  border-radius: 10px;
+}
+.footer {
+  background-color: blue;
+}
+.contact {
+  height: 100vw;
+
+}
+.h{
+  height:100vw;
+}
+
